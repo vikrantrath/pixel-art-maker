@@ -1,0 +1,33 @@
+.MainDiv{
+    display : flex;
+    flex-flow: column wrap;
+    }
+.rowDiv{
+    display: flex;
+    flex-direction: row;
+}
+.UnitDiv{
+    height : 50px;
+    width :  50px;
+    border : 1px solid red;
+}
+.redDiv{
+    height : 50px;
+    width : 50px;
+    background-color: red;
+}
+.greenDiv{
+    height : 50px;
+    width : 50px;
+    background-color: green;
+}
+.blueDiv{
+    height : 50px;
+    width : 50px;
+    background-color: blue;
+}
+.yellowDiv{
+    height : 50px;
+    width : 50px;
+    background-color: yellow;
+}
